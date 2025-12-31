@@ -1,0 +1,14 @@
+npm init -y 
+
+npm i express
+
+npm i nodemon  - (start : nodemon app.js)
+
+npm install dotenv --save 
+import 'dotenv/config'
+use with the following command - process.env
+
+echo > .gitignore
+
+ 
+

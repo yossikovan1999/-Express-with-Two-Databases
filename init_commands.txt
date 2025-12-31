@@ -10,5 +10,14 @@ use with the following command - process.env
 
 echo > .gitignore
 
- 
+
+
+when updating this is what is returned.
+ {
+  acknowledged: true,
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1
+}
 
